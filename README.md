@@ -12,6 +12,7 @@ Below are screenshots demonstrating the model predictions for both cases:
 
 <img src="Screenshot_spam.png" width="700">
 
+
 <img src="Screenshot_working.png" width="700">
 
 ## Project Workflow
