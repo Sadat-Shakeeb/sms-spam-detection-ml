@@ -135,7 +135,7 @@ A Streamlit web application was created that:
 ---
 
 ## Deployment
-The application was deployed (Streamlit Cloud or similar):
+The application was deployed (Streamlit Cloud):
 
 - Model saved using pickle  
 - TF-IDF vectorizer saved and loaded at runtime  
