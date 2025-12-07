@@ -4,10 +4,15 @@
 This project is an end-to-end implementation of an SMS Spam Classifier that detects whether a message is spam or ham. The pipeline includes data cleaning, exploratory data analysis, text preprocessing, model training, evaluation, improvements, website creation, and deployment. The final selected model uses TF-IDF vectorization with Multinomial Naive Bayes.
 
 ---
+## Application Demo
 
-<img src="Screenshot_spam.png" width="400">
+Below are screenshots demonstrating the model predictions for both cases:
+- Spam message detection
+- Not spam (ham) message detection
 
-<img src="Screenshot_spam.png" width="400">
+<img src="Screenshot_spam.png" width="700">
+
+<img src="Screenshot_working.png" width="700">
 
 ## Project Workflow
 1. Data Cleaning  
