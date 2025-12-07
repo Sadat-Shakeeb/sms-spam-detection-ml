@@ -5,6 +5,10 @@ This project is an end-to-end implementation of an SMS Spam Classifier that dete
 
 ---
 
+<img src="Screenshot_spam.png" width="400">
+
+<img src="Screenshot_spam.png" width="400">
+
 ## Project Workflow
 1. Data Cleaning  
 2. Exploratory Data Analysis (EDA)  
